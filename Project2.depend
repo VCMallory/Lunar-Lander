@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1611586567 source:c:\users\cpp\desktop\game\c++\test\project2\activegame.c
+	"activegame.h"
+
+1611586624 c:\users\cpp\desktop\game\c++\test\project2\activegame.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<stdio.h>
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame10.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame2.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame3.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame4.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame5.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame6.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame7.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame8.c
+	"activegame.h"
+
+1611586723 source:c:\users\cpp\desktop\game\c++\test\project2\activegame9.c
+	"activegame.h"
+
+1611643565 source:c:\users\cpp\desktop\game\c++\test\project2\main.c
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_image.h>
+	"activegame.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1611586757 source:c:\users\cpp\desktop\game\c++\test\project2\main1.c
+	"activegame.h"
+
+1611658003 source:c:\users\cpp\desktop\game\c++\test\project2\pause.c
+	"activegame.h"
+
+1611658004 source:c:\users\cpp\desktop\game\c++\test\project2\tolose.c
+	"activegame.h"
+
+1611657985 source:c:\users\cpp\desktop\game\c++\test\project2\win.c
+	"activegame.h"
+
